@@ -11,3 +11,5 @@ Features
 
 3.Reset button
   On click of reset stop the watch (if already started) and set timer as 0
+  
+  https://0anju0.github.io/Stopwatch/
